@@ -135,3 +135,20 @@ Cada agente oficial possui os seguintes campos:
 - Integrações: Comercial, Jurídico, Estratégia e Produtos.
 - Limites: não fecha contratos sem validação jurídica e estratégica.
 - KPIs: número de parcerias ativas, valor gerado e qualidade dos acordos.
+
+Especificação: [AGENTE_PARCERIAS](architecture/AGENTES/AGENTE_PARCERIAS.md)
+
+## Especificações dos Agentes
+
+- [AGENTE_JASON](architecture/AGENTES/AGENTE_JASON.md)
+- [AGENTE_ESTRATEGICO](architecture/AGENTES/AGENTE_ESTRATEGICO.md)
+- [AGENTE_GESTAO_CONHECIMENTO](architecture/AGENTES/AGENTE_GESTAO_CONHECIMENTO.md)
+- [AGENTE_CYBERSECURITY](architecture/AGENTES/AGENTE_CYBERSECURITY.md)
+- [AGENTE_JURIDICO](architecture/AGENTES/AGENTE_JURIDICO.md)
+- [AGENTE_FINANCEIRO](architecture/AGENTES/AGENTE_FINANCEIRO.md)
+- [AGENTE_TI](architecture/AGENTES/AGENTE_TI.md)
+- [AGENTE_PRODUTOS](architecture/AGENTES/AGENTE_PRODUTOS.md)
+- [AGENTE_MARKETING](architecture/AGENTES/AGENTE_MARKETING.md)
+- [AGENTE_OPERACOES](architecture/AGENTES/AGENTE_OPERACOES.md)
+- [AGENTE_INOVACAO](architecture/AGENTES/AGENTE_INOVACAO.md)
+- [AGENTE_PARCERIAS](architecture/AGENTES/AGENTE_PARCERIAS.md)
