@@ -128,6 +128,33 @@ A plataforma deve ser projetada para crescer de forma incremental.
 - adotar contêineres e orquestração ao escalar
 - permitir a inclusão de novos agentes sem ruptura do núcleo
 
+## Escopo da Arquitetura
+Este documento estabelece o escopo da arquitetura do Projeto Jason como referência estrutural para a plataforma, os agentes, os processos, a governança, a memória institucional e a evolução futura do ecossistema.
+
+## Princípios Arquiteturais
+- Coerência entre estratégia, execução e governança.
+- Modularidade e especialização funcional.
+- Memória institucional como ativo estratégico.
+- Segurança, rastreabilidade e conformidade como requisitos centrais.
+- Escalabilidade incremental e evolução controlada.
+- Integração entre agentes e componentes com governança clara.
+
+## Componentes da Arquitetura
+A arquitetura do Projeto Jason é composta por componentes funcionais e transversais que trabalham de forma integrada:
+- Orquestrador Central: Jason.
+- Agentes especializados por domínio.
+- Memória institucional e contexto compartilhado.
+- Camadas de persistência, segurança, observabilidade e integração.
+- Interfaces de comunicação interna e externa.
+
+## Visão de Alto Nível da Arquitetura
+A arquitetura do Projeto Jason é concebida como uma plataforma modular, orientada por agentes, com foco em coordenação, governança, conhecimento e execução operacional. O modelo busca combinar autonomia funcional com alinhamento institucional, permitindo crescimento sustentável sem perder rastreabilidade e consistência.
+
+## Integração com o Manual Mestre
+- docs/01_MANUAL_MESTRE.md é a porta de entrada da documentação do Projeto Jason.
+- Este documento é a referência oficial da arquitetura do Projeto Jason.
+- O Manual Mestre organiza a navegação e a leitura dos documentos complementares, enquanto esta arquitetura consolidada define o modelo estrutural principal.
+
 ## Documentos Relacionados
 - `docs/01_MANUAL_MESTRE.md`
 - `docs/ORGANOGRAMA_DO_JASON.md`

@@ -1,5 +1,3 @@
- CENTRAL NEWTON
-
 # Manual Mestre
 
 *Versão:* 1.0  
@@ -7,11 +5,41 @@
 *Autor:* Newton  
 *Status:* Documento Oficial da Arquitetura
 
+## Índice de Navegação
+
+- [Capítulo 1 — Missão](#-capítulo-1--missão)
+- [Capítulo 2 — Visão](#-capítulo-2--visão)
+- [Capítulo 3 — Princípios Fundamentais](#-capítulo-3--princípios-fundamentais)
+- [Capítulo 4 — Estrutura da Central Newton](#-capítulo-4---estrutura-da-central-newton)
+- [Capítulo 5 — Estrutura dos Agentes da Central Newton](#-capítulo-5--estrutura-dos-agentes-da-central-newton)
+- [Capítulo 6 — Arquitetura dos Agentes](#-capítulo-6--arquitetura-dos-agentes)
+- [Capítulo 7 — Catálogo Oficial dos Agentes](#-capítulo-7---catálogo-oficial-dos-agentes)
+- [Documentos Oficiais](#documentos-oficiais)
+- [Governança da Documentação](#governança-da-documentação)
+
+## Documentos Oficiais
+
+Este documento é a porta de entrada oficial da documentação do Projeto Jason. Os documentos abaixo constituem a base de referência da arquitetura e da governança documental:
+
+- [ARQUITETURA_OFICIAL_V1.md](ARQUITETURA_OFICIAL_V1.md)
+- [DECISOES_ARQUITETURAIS.md](DECISOES_ARQUITETURAIS.md)
+- [CATALOGO_DE_AGENTES.md](CATALOGO_DE_AGENTES.md)
+- [ORGANOGRAMA_DO_JASON.md](ORGANOGRAMA_DO_JASON.md)
+- [ROADMAP.md](ROADMAP.md)
+
+> Observação: o nome "Projeto Jason" é utilizado como referência principal. A expressão "Central Newton" é mantida apenas quando se fizer referência a contextos históricos ou institucionais específicos.
+
+## Governança da Documentação
+
+- Este documento é a porta de entrada da documentação do Projeto Jason.
+- A arquitetura oficial está em [ARQUITETURA_OFICIAL_V1.md](ARQUITETURA_OFICIAL_V1.md).
+- Os demais documentos são especializados, complementares ou históricos.
+
 ---
 
 # Capítulo 1 — Missão
 
-A Central Newton é um ecossistema inteligente de gestão pessoal, profissional e estratégica, concebido para integrar conhecimento, organizar informações, apoiar decisões e preservar a memória institucional.
+O Projeto Jason é um ecossistema inteligente de gestão pessoal, profissional e estratégica, concebido para integrar conhecimento, organizar informações, apoiar decisões e preservar a memória institucional.
 
 0Seu propósito é integrar pessoas, agentes especializados, projetos, documentos e processos em uma arquitetura única, documentada, rastreável e escalável, garantindo a preservação do conhecimento, a continuidade operacional e a evolução contínua da organização.
 
