@@ -32,7 +32,10 @@ Projeto_Jason/
 │   └── Documentação
 │
 ├── src/
-│   └── Código-fonte
+│   └── Código-fonte (agentes e módulos de memória)
+│
+├── tests/
+│   └── Casos de teste automatizados
 │
 ├── data/
 │   └── Banco de dados
@@ -42,6 +45,16 @@ Projeto_Jason/
 │
 └── README.md
 
+
+---
+
+# Agente de Memória
+
+O Projeto Jason agora inclui um módulo de memória institucional em `src/`, com:
+- `MemoryStore`: armazenamento thread-safe de fatos, consultas e tags.
+- `MemoryAgent`: interface para lembrar, consultar, buscar, listar e esquecer registros.
+
+O agente pode ser estendido para integração com outros agentes e com persistência em arquivo JSON.
 
 ---
 
